@@ -1,2 +1,2 @@
 # patikagit
-Git eğitimi
+Git eğitimidir
